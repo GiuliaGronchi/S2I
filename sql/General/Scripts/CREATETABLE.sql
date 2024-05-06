@@ -14,6 +14,11 @@ VALUES
 INSERT INTO employees
 (employee_number, last_name, first_name, salary, dept_id)
 VALUES
+(1001, 'Smith', 'John', 62000, 500);
+
+INSERT INTO employees
+(employee_number, last_name, first_name, salary, dept_id)
+VALUES
 (1002, 'Anderson', 'Jane', 57500, 500);
 
 INSERT INTO employees
